@@ -3,3 +3,7 @@
 .pagewide-font {
     font-family: "Inter", sans-serif;
 }
+
+.center-element {
+    justify-content: center;
+}
